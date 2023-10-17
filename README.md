@@ -1,1 +1,2 @@
-# bf591-assignment-diff-expr-part2
+# bf591-assignment-6
+Base repo for BF591 Assingment 6
