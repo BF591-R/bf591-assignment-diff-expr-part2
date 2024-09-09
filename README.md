@@ -5,6 +5,9 @@
 ## Problem Statement
 Because R has been utilized in bioinformatics communities for years at this point, there are many different approaches to do one task. While in the last assignment we just used DESeq2, we will be performing differential expression analysis with two additional packages (edgeR and Limma) and comparing the results we find.
 
+## Required Readings
+This assignment will draw upon many concepts primarily from Chapters 6, 8, and 9.
+
 ## Learning Objectives
 1. The basic operations of `ggplot` and "The Grammar of Graphics".
 2. Using differential gene expression analysis packages to generate data for plotting.
