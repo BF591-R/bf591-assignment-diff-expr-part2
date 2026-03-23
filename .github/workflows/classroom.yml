@@ -34,7 +34,7 @@ jobs:
           # cat out test_results.csv for funzies
           cat test_results.csv
       - name: upload test results as artifact
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4
         with:
           name: test-results
           path: test_results.csv
